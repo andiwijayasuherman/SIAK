@@ -1,0 +1,54 @@
+/*.navbar-default{
+	background-color: yellow; 
+	height: 107px;
+
+}
+
+.navbar-nav{
+	margin-left: 80%;
+}
+
+.dropdown-toggle{
+	font-family: Rockwell Extra Bold;
+	font-size: 30px;
+	font-color:white;
+	margin-bottom: 100%;
+
+
+}
+
+.aduh{
+	margin-right:100%;
+	font-family: Rockwell Extra Bold;
+	font-size: 30px;
+}*/
+.navbar-default{
+	background-color: yellow;
+/*	margin-bottom: 10px;*/
+}
+
+body{
+	background-color: black;
+}
+
+.truk img{
+	height: 150%;
+}
+
+
+#myCarousel{
+	background-color: yellow;
+}
+
+.navbar-default .navbar-nav > li > .join{
+	font-family: Rockwell Extra Bold;
+	font-size: 40px;
+	color:black;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	color: red;
+}
+
